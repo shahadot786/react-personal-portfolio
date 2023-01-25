@@ -1,5 +1,5 @@
 header {
-  height: 104vh;
+  height: 118vh;
   padding-top: 7rem;
   overflow: hidden;
 }
@@ -11,7 +11,7 @@ header {
 }
 
 .sub__text {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 /* ====================== CTA ======================= */
@@ -67,7 +67,11 @@ header {
 
 @media only screen and (max-width: 1024px) {
   header {
-    height: 68vh;
+    height: 118vh;
+  }
+
+  .me {
+    height: 25rem;
   }
 }
 
@@ -75,8 +79,13 @@ header {
 
 @media only screen and (max-width: 600px) {
   header {
-    height: 104vh;
+    height: 118vh;
   }
+
+  .me {
+    height: 25rem;
+  }
+
   .header__socials,
   .scroll__down {
     display: none;
