@@ -20,35 +20,35 @@ const data = [
     avatar: AVATAR1,
     name: 'Zahid Hasan',
     review:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veldistinctio laborum hic laboriosam repellat rem odit cumquerecusandae, ut eaque? Nulla accusantium dignissimos molestiasrepellat?',
+      'Lots of excellently written learning materials for javascript all packaged up into a handy app.',
   },
   {
     id: 2,
     avatar: AVATAR2,
-    name: 'Zahid Hasan',
+    name: 'Tanzila Akter',
     review:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veldistinctio laborum hic laboriosam repellat rem odit cumquerecusandae, ut eaque? Nulla accusantium dignissimos molestiasrepellat?',
+      "A good javascript programming companion. I'm able to save content for offline reference later.",
   },
   {
     id: 3,
     avatar: AVATAR3,
-    name: 'Zahid Hasan',
+    name: 'MD.Tohin Miah',
     review:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veldistinctio laborum hic laboriosam repellat rem odit cumquerecusandae, ut eaque? Nulla accusantium dignissimos molestiasrepellat?',
+      'Such a wonderful app for learning javascript.strongly recomended to learn through this app',
   },
   {
     id: 4,
     avatar: AVATAR4,
-    name: 'Zahid Hasan',
+    name: 'Maliha Nishi',
     review:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veldistinctio laborum hic laboriosam repellat rem odit cumquerecusandae, ut eaque? Nulla accusantium dignissimos molestiasrepellat?',
+      'Cool app for beginners in programming on javascript. Many information and examples.',
   },
   {
     id: 5,
     avatar: AVATAR5,
-    name: 'Zahid Hasan',
+    name: 'Tanjimun Jannat Mafi',
     review:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veldistinctio laborum hic laboriosam repellat rem odit cumquerecusandae, ut eaque? Nulla accusantium dignissimos molestiasrepellat?',
+      'With a great experience and have a great proven skills he has. I love to work with him.',
   },
 ];
 

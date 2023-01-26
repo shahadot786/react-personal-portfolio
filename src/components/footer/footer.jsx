@@ -2,8 +2,8 @@ import React from 'react';
 import './footer.css';
 import { FaFacebookSquare } from 'react-icons/fa';
 import { AiFillInstagram } from 'react-icons/ai';
-import { FaYoutubeSquare } from 'react-icons/fa';
-import { FaTwitterSquare } from 'react-icons/fa';
+import { FaYoutube } from 'react-icons/fa';
+import { FaTwitter } from 'react-icons/fa';
 
 const footer = () => {
   return (
@@ -37,17 +37,20 @@ const footer = () => {
       </ul>
 
       <div className="footer__details">
-        <a href="https://web.facebook.com/shahadot.shr.rahat">
+        <a href="https://web.facebook.com/shahadot.shr.rahat" target="_blank">
           <FaFacebookSquare />
         </a>
-        <a href="https://www.instagram.com/rahat_shr">
+        <a href="https://www.instagram.com/rahat_shr" target="_blank">
           <AiFillInstagram />
         </a>
-        <a href="https://twitter.com/shahadot_shr">
-          <FaTwitterSquare />
+        <a href="https://twitter.com/shahadot_shr" target="_blank">
+          <FaTwitter />
         </a>
-        <a href="https://www.youtube.com/channel/UC6ilHykZxnKn0PNxZgsx1Dw">
-          <FaYoutubeSquare />
+        <a
+          href="https://www.youtube.com/channel/UC6ilHykZxnKn0PNxZgsx1Dw"
+          target="_blank"
+        >
+          <FaYoutube />
         </a>
       </div>
 

@@ -11,84 +11,84 @@ const services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Front-End</h3>
+            <h3>Web Design</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Responsive Web Design</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Static & Dynamic Website</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>PHD to Html Responsive Design</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Reskin Website</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Any design related work</p>
             </li>
           </ul>
         </article>
         {/* end of frontend */}
         <article className="service">
           <div className="service__head">
-            <h3>Front-End</h3>
+            <h3>Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Backend Development</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>PHP & Laravel Dev</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Blog & Portfolio with Backend</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Wordpress Developmet</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Any development related work</p>
             </li>
           </ul>
         </article>
         {/* end of Backend */}
         <article className="service">
           <div className="service__head">
-            <h3>Front-End</h3>
+            <h3>Mobile Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Android App</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>iOS App</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Native App Dev</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Full Stack </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur Enim.</p>
+              <p>Any Mobile Application Related Work</p>
             </li>
           </ul>
         </article>

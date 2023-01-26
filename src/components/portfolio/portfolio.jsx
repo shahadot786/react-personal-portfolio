@@ -5,42 +5,58 @@ import IMG2 from '../../assets/portfolio2.png';
 import IMG3 from '../../assets/portfolio3.png';
 import IMG4 from '../../assets/portfolio4.png';
 import IMG5 from '../../assets/portfolio5.png';
+import IMG6 from '../../assets/portfolio6.png';
+import IMG7 from '../../assets/portfolio7.png';
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'This is a titile 1',
-    github: 'https://github.com/shrcreation',
-    demo: 'https://shrcreation.com',
+    title: 'Movies Database Vanilla JS',
+    github: 'https://github.com/shrcreation/Movies-Database-DOM-Vanilla-JS-',
+    demo: 'https://movies.shrcreation.com/',
   },
   {
     id: 2,
     image: IMG2,
-    title: 'This is a titile 1',
-    github: 'https://github.com/shrcreation',
-    demo: 'https://shrcreation.com',
+    title: 'JScript- Learn JavaScript Online | Android App',
+    github: 'https://github.com/shrcreation/JScript-Learn-JavaScript',
+    demo: 'https://javascript.shrcreation.com',
   },
   {
     id: 3,
     image: IMG3,
-    title: 'This is a titile 1',
-    github: 'https://github.com/shrcreation',
-    demo: 'https://shrcreation.com',
+    title: 'Responsive App Landing Page ',
+    github: 'https://github.com/shrcreation/App-Landing-Page',
+    demo: 'https://landingpage.shrcreation.com/',
   },
   {
     id: 4,
     image: IMG4,
-    title: 'This is a titile 1',
-    github: 'https://github.com/shrcreation',
-    demo: 'https://shrcreation.com',
+    title: 'ToDoList- Vanilla JavaScript',
+    github: 'https://github.com/shrcreation/ToDoList-Vanilla-JavaScript-App',
+    demo: 'https://react.shrcreation.com',
   },
   {
     id: 5,
     image: IMG5,
-    title: 'This is a titile 1',
-    github: 'https://github.com/shrcreation',
-    demo: 'https://shrcreation.com',
+    title: 'React Native Weather App',
+    github: 'https://github.com/shrcreation/react-native-weather-app-api',
+    demo: 'https://github.com/shrcreation/react-native-weather-app-api',
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'Static Personal Portfolio',
+    github: 'https://portfolio.shrcreation.com/',
+    demo: 'https://portfolio.shrcreation.com/',
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'Wordpress Portfolio',
+    github: 'https://www.zahidhasan.shrcreation.com/',
+    demo: 'https://www.zahidhasan.shrcreation.com/',
   },
 ];
 

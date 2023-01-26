@@ -1,6 +1,6 @@
 header {
   height: 118vh;
-  padding-top: 7rem;
+  padding-top: 5rem;
   overflow: hidden;
 }
 
@@ -67,7 +67,7 @@ header {
 
 @media only screen and (max-width: 1024px) {
   header {
-    height: 118vh;
+    height: 70vh;
   }
 
   .me {
@@ -79,7 +79,7 @@ header {
 
 @media only screen and (max-width: 600px) {
   header {
-    height: 118vh;
+    height: 100vh;
   }
 
   .me {
